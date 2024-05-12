@@ -1,0 +1,1 @@
+A package is like a folder or a directory
