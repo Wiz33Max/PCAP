@@ -1,5 +1,5 @@
 """ module.py - an example of a Python module """
-
+import os
 __counter = 0
 
 
@@ -26,3 +26,9 @@ if __name__ == "__main__":
     my_list = [i+1 for i in range(5)]
     print(suml(my_list) == 15)
     print(prodl(my_list) == 120)
+
+    # print the file name
+    print (__file__)
+
+    # print the directory name that holds the file
+    print (os.path.dirname(__file__))
