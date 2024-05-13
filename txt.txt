@@ -3,3 +3,5 @@ A package is like a folder or a directory.
 In Python, the global keyword is used inside a function to indicate
  that a variable declared within that function should refer to 
  the globally defined variable with the same name.
+
+pip show <pacjage_name>

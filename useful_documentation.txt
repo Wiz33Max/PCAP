@@ -8,3 +8,8 @@ print (dir(w))
 help (w.re)
 
 standart python modules(official doc): https://docs.python.org/3/py-modindex.html
+
+The PyPI repository website (administered by PWG) is located at the address:
+https://pypi.org/
+
+Or on GITHub.
